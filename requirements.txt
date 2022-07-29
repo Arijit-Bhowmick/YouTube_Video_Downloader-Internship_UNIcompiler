@@ -1,0 +1,5 @@
+ffmpeg
+ffmpeg-python
+pytube
+windows-curses
+curses

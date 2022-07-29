@@ -1,0 +1,20 @@
+# Executables CHECKSUMS
+---
+### v1
+
+```
+[MD5-CHECKSUM]
+
+YTVideoDownloader :  0a7aa43419b42e647980be6adefc0754
+YTVideoDownloader.exe :  34839cc0379235bf45f4602bf256f09b
+
+[SHA256-CHECKSHUM]
+
+YTVideoDownloader :  c35bfe33a4229ff0077d1cd2af3b0f4585b92b2ac4f1b6a7e1ba85bb516b31b5
+YTVideoDownloader.exe :  c91808a00bb7698f9032700cc79d8e0eca0c2d5ca8b6aecaff80a71440e57d48
+
+[SHA512-CHECKSUM]
+
+YTVideoDownloader : 47ab9119f6dd1d6fb4615491b62520ea0c1d6e06b4c5d86d7a49e6ad8fa64fc4d25089c29bc084ce9bc6ab2bf623b58a0e3583ed233ad6217a28776128c294a2
+YTVideoDownloader.exe : 7ed6e36351aae59a57334b0c080b15f26dca804a89a6f498f61093c2fd0a6e4f609caa6217ccb61bb1ece76fffe937437894f7b1541a87e1e3cf23b97e4d0ef9
+```
